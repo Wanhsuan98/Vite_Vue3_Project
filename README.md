@@ -2,6 +2,7 @@
 
 ## Project setup
 ```
+cd vite-project
 npm install
 ```
 
